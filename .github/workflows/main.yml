@@ -1,59 +1,15 @@
-1
 
 name: Latest blog post workflow
-
-2
-
 on: 
-
-3
-
     schedule:
-
-4
-
         - cron: '0 * * * *'
-
-5
-
 jobs: 
-
-6
-
     update-readme-with-blog: 
-
-7
-
         name: Update this repo's README with latest blog posts
-
-8
-
         runs-on: ubuntu-latest
-
-9
-
         steps: 
-
-10
-
             - uses: actions/checkout@v2
-
-11
-
             - uses: gautamkrishnar/blog-post-workflow@master
-
-12
-
               with: 
-
-13
-
                 max_post_count: "4"
-
-14
-
                 feed_list: "https://blog.kathyreid.id.au/feed"
-
-15
-
-​
