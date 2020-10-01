@@ -1,12 +1,14 @@
-# Hi 👋, I'm Kathy Reid @kathyreid 
+# Hi 👋, I'm Kathy Reid @kathyreid
 
 I'm into open source systems, and I'm a PhD student at the @3AInstitute at Australian National University in Canberra, where I'm looking at how open source voice assistants go to scale. I work part-time at @Mozilla, mostly with voice products.
 
 I value;
 
-* :open_hands: open sharing of knowledge, code, results. Together we do better.
-* :notebook_with_decorative_cover: non-code contributions - documentation, project management, governance, "glue" work - are all forms of effort and labour, and should be counted as contributions. Together we do better.
-* :fist: :rainbow: people irrespective of their skin colour, gender expression, spiritual beliefs, country of origin or antecedent disciplines. Together we do better.
+* :open_hands: **open** sharing of knowledge, code, results.
+* :notebook_with_decorative_cover: **non-code contributions** - documentation, project management, governance, "glue" work - are all forms of effort and labour, and should be counted as contributions.
+* :fist: :rainbow: **people** irrespective of their skin colour, gender expression, spiritual beliefs, country of origin or antecedent disciplines. 
+
+_Together we do better._
 
 <p align="left"> <img style="clear:both;" src="https://komarev.com/ghpvc/?username=kathyreid" alt="kathyreid" /> </p>
 
