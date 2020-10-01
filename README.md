@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kathy Reid
 
-#### I'm into open source systems, and I'm a PhD student at the @3AInstitute at Australian National University in Canberra, where I'm looking at how open source voice assistants go to scale. I work part-time at @Mozilla, mostly with voice products.
+I'm into open source systems, and I'm a PhD student at the @3AInstitute at Australian National University in Canberra, where I'm looking at how open source voice assistants go to scale. I work part-time at @Mozilla, mostly with voice products.
 
 <p align="left"> <img style="clear:both;" src="https://komarev.com/ghpvc/?username=kathyreid" alt="kathyreid" /> </p>
 
