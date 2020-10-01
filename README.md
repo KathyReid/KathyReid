@@ -17,6 +17,10 @@
 
 [https://kathyreid.com.au/portfolio](https://kathyreid.com.au/portfolio)
 
+#### Where you can contact me :email:
+
+[https://kathyreid.com.au/contact](https://kathyreid.com.au/contact)
+
 ### My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
 - [linux.conf.au 2020 – Who’s watching?](https://blog.kathyreid.id.au/2020/07/26/linux-conf-au-2020/)
