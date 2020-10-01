@@ -18,6 +18,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [linux.conf.au 2020 – Who’s watching?](https://blog.kathyreid.id.au/2020/07/26/linux-conf-au-2020/)
+- [Picks from #fosdem2020](https://blog.kathyreid.id.au/2020/02/08/picks-from-fosdem2020/)
+- [My talk picks for #lca2020 – Who’s Watching?](https://blog.kathyreid.id.au/2019/12/29/talk-picks-for-lca2020/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
