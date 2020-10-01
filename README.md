@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kathy</h1>
-<h3 align="center">Open source voice, open source systems, cybernetics</h3>
+# Hi 👋, I'm Kathy
+
+## Open source voice, open source systems, cybernetics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathyreid" alt="kathyreid" /> </p>
 
