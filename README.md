@@ -2,11 +2,13 @@
 
 I'm into open source systems, and I'm a PhD student at the @3AInstitute at Australian National University in Canberra, where I'm looking at how open source voice assistants go to scale. I work part-time at @Mozilla, mostly with voice products.
 
+<p align="left"> <img style="clear:both;" src="images/sheher.svg" alt="kathyreid" /> </p>
+
 I value;
 
 * :open_hands: **open** sharing of knowledge, code, results.
 * :notebook_with_decorative_cover: **non-code contributions** - documentation, project management, governance, "glue" work - are all forms of effort and labour, and should be counted as contributions.
-* :fist: :rainbow: **people** irrespective of their skin colour, gender expression, spiritual beliefs, country of origin or antecedent disciplines. 
+* :fist: :rainbow: **people** irrespective of their skin colour, gender expression, spiritual beliefs, country of origin or antecedent disciplines.
 
 _Together we do better._
 
