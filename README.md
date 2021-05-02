@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [State of my toolchain 2021](https://blog.kathyreid.id.au/2021/05/02/state-of-my-toolchain-2021/)
 - [Setting up an academic writing workflow using Pandoc, Markdown, Zotero and LaTeX on Ubuntu Linux using Atom](https://blog.kathyreid.id.au/2020/12/27/academic-writing-workflow/)
 - [linux.conf.au 2020 – Who’s watching?](https://blog.kathyreid.id.au/2020/07/26/linux-conf-au-2020/)
-- [Picks from #fosdem2020](https://blog.kathyreid.id.au/2020/02/08/picks-from-fosdem2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
