@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [Building a Linux video production workflow for the SRA22 Social Responsibility of Algorithms conference](https://blog.kathyreid.id.au/2022/05/14/linux-video-production/)
 - [A review of Taguette – an open source alternative for qualitative data coding](https://blog.kathyreid.id.au/2021/11/16/taguette-review/)
 - [State of my toolchain 2021](https://blog.kathyreid.id.au/2021/05/02/state-of-my-toolchain-2021/)
-- [Setting up an academic writing workflow using Pandoc, Markdown, Zotero and LaTeX on Ubuntu Linux using Atom](https://blog.kathyreid.id.au/2020/12/27/academic-writing-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
