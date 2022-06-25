@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [Solving MaxQDA error 1001: Error while converting the project!](https://blog.kathyreid.id.au/2022/06/25/maxqda-error-1001-error-converting-project-onedrive/)
 - [Building a Linux video production workflow for the SRA22 Social Responsibility of Algorithms conference](https://blog.kathyreid.id.au/2022/05/14/linux-video-production/)
 - [A review of Taguette – an open source alternative for qualitative data coding](https://blog.kathyreid.id.au/2021/11/16/taguette-review/)
-- [State of my toolchain 2021](https://blog.kathyreid.id.au/2021/05/02/state-of-my-toolchain-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
