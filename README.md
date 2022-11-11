@@ -37,12 +37,12 @@ _Together we do better._
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
-<a href="https://twitter.com/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kathyreid" height="30" width="40" /></a>
-<a href="https://aus.social/@KathyReid" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="kathyreid" height="30" width="40" /></a></a>
-<a href="https://linkedin.com/in/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kathyreid" height="30" width="40" /></a>
-<a href="https://huggingface.co/KathyReid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/huggingface.svg" alt="kathyreid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kathyreid" height="30" width="40" /></a>
-<a href="https://kaggle.com/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kathyreid" height="30" width="40" /></a>
-<a href="https://medium.com/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kathyreid" height="30" width="40" /></a>
-<a href="/https://blog.kathyreid.id.au/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://blog.kathyreid.id.au/feed" height="30" width="40" /></a>
+<a href="https://twitter.com/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/twitter.svg" alt="kathyreid" height="30" width="40" /></a>
+<a href="https://aus.social/@KathyReid" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mastodon.svg" alt="kathyreid" height="30" width="40" /></a></a>
+<a href="https://linkedin.com/in/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="kathyreid" height="30" width="40" /></a>
+<a href="https://huggingface.co/KathyReid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/hugging-face.svg" alt="kathyreid" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/stackoverflow.svg" alt="kathyreid" height="30" width="40" /></a>
+<a href="https://kaggle.com/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/kaggle.svg" alt="kathyreid" height="30" width="40" /></a>
+<a href="https://medium.com/kathyreid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/medium.svg" alt="kathyreid" height="30" width="40" /></a>
+<a href="/https://blog.kathyreid.id.au/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/rss.svg" alt="https://blog.kathyreid.id.au/feed" height="30" width="40" /></a>
 
