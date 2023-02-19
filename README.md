@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [The Mycroft Mark II and the wind-down of Mycroft AI: it’s all about ecosystems, infrastructures and the friction of privacy](https://blog.kathyreid.id.au/2023/02/19/the-mycroft-mark-ii-and-the-wind-down-of-mycroft-ai-its-all-about-ecosystems-infrastructures-and-the-friction-of-privacy/)
 - [State of my toolchain 2022](https://blog.kathyreid.id.au/2022/11/13/state-of-my-toolchain-2022/)
 - [Building a database to handle PhD interview tracking using MySQL and noco-db](https://blog.kathyreid.id.au/2022/07/27/using-nocodb-build-database-interview-tracking/)
-- [Solving MaxQDA error 1001: Error while converting the project!](https://blog.kathyreid.id.au/2022/06/25/maxqda-error-1001-error-converting-project-onedrive/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
