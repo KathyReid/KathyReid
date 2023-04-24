@@ -4,7 +4,7 @@
 
 <p>Do you work with #voice or #speech #data? You might contribute data, write data specifications for collection, perform filtering or pre-processing, train #ASR or #TTS models, or design or perform evaluations on #ML speech models. </p>
 
-<p>If so, I’d love your help to understand current #dataset #documentation practices, and what we can do to make them better as part of my #PhD #research </p>
+<p>If so, I’d love your help to understand current #dataset #documentation practices, and what we can do to make them better as part of my #PhD #research at <a href="https://cybernetics.anu.edu.au">ANU's School of Cybernetics</a>. </p>
 
 <p>The #survey takes 10-20 minutes to complete, and you can opt in to win one of 3 gift cards valued at $AUD 50 each.</p>
 
