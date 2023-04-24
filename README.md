@@ -16,8 +16,7 @@
 
 </div>
 
-
-
+---
 
 I'm into open source systems, and I'm a PhD student at the @3AInstitute at Australian National University in Canberra, where I'm looking at voice data and its biases, with a focus on speech technology that works better for more people. I have a Research Partnership with @Mozilla's Common Voice team. 
 
