@@ -49,9 +49,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [Help me with my PhD research on voice dataset documentation by completing this survey](https://blog.kathyreid.id.au/2023/04/25/phd-research-voice-dataset-documentation/)
 - [EverythingOpen: connecting open* communities](https://blog.kathyreid.id.au/2023/04/15/everythingopen-connecting-open-communities/)
 - [The Mycroft Mark II and the wind-down of Mycroft AI: it’s all about ecosystems, infrastructures and the friction of privacy](https://blog.kathyreid.id.au/2023/02/19/the-mycroft-mark-ii-and-the-wind-down-of-mycroft-ai-its-all-about-ecosystems-infrastructures-and-the-friction-of-privacy/)
-- [State of my toolchain 2022](https://blog.kathyreid.id.au/2022/11/13/state-of-my-toolchain-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
