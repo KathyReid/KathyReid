@@ -1,24 +1,6 @@
 # Hi 👋, I'm Kathy Reid @kathyreid
 
-<div style="background-color:#fefefe; font-size:1.3rem; padding:20px;><h2>Help understand and improve voice dataset documentation practices and make speech technologies work better for more people - and fill out this survey for my PhD research"</h2>
-
-<p>Do you work with #voice or #speech #data? You might contribute data, write data specifications for collection, perform filtering or pre-processing, train #ASR or #TTS models, or design or perform evaluations on #ML speech models. </p>
-
-<p>If so, I’d love your help to understand current #dataset #documentation practices, and what we can do to make them better as part of my #PhD #research at <a href="https://cybernetics.anu.edu.au">ANU's School of Cybernetics</a>. </p>
-
-<p>The #survey takes 10-20 minutes to complete, and you can opt in to win one of 3 gift cards valued at $AUD 50 each.</p>
-
-<em>Research Protocol 2021/427 approved by  #ANU Human Research Ethics Committee</em>
-
-<a href=https://anu.au1.qualtrics.com/jfe/form/SV_cSFODa5osYtm96e>Click link to take the survey</a>.
-
-<p align="left"> <img style="clear:both;" src="images/survey-promotion-linkedin.png" /> </p>
-
-</div>
-
----
-
-I'm into open source systems, and I'm a PhD student at the @3AInstitute at Australian National University in Canberra, where I'm looking at voice data and its biases, with a focus on speech technology that works better for more people. I have a Research Partnership with @Mozilla's Common Voice team. 
+I'm into open source systems, and I'm a PhD student at @ANUCybernetics at Australian National University in Canberra, where I'm looking at voice data and its biases, with a focus on speech technology that works better for more people. I have a Research Partnership with @Mozilla's Common Voice team. 
 
 <p align="left"> <img style="clear:both;" src="images/sheher.svg" alt="kathyreid" /> </p>
 
