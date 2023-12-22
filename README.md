@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [State of my toolchain 2023](https://blog.kathyreid.id.au/2023/12/21/state-of-my-toolchain-2023/)
 - [ALTA2023: The 21st Australasian Language Technology Association Workshop](https://blog.kathyreid.id.au/2023/12/10/alta2023/)
 - [Why are universities reluctant to join Mastodon and the Fediverse?](https://blog.kathyreid.id.au/2023/07/18/why-are-universities-reluctant-to-join-mastodon-and-the-fediverse/)
-- [Help me with my PhD research on voice dataset documentation by completing this survey](https://blog.kathyreid.id.au/2023/04/25/phd-research-voice-dataset-documentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
