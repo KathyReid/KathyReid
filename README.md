@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [Dark Printers](https://blog.kathyreid.id.au/2024/03/02/dark-printers/)
 - [Scaling Python: dipping my toes into dask](https://blog.kathyreid.id.au/2024/01/27/scaling-python-dask/)
 - [Book review: The Sound of the Future by Tobias Dengel with Karl Weber](https://blog.kathyreid.id.au/2024/01/04/book-review-the-sound-of-the-future-by-tobias-dengel-with-karl-weber/)
-- [State of my toolchain 2023](https://blog.kathyreid.id.au/2023/12/21/state-of-my-toolchain-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
