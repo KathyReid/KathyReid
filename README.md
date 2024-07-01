@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [Digging where she stands – Meredith Whittaker in conversation with Vanessa Toholka at the Wheeler Centre, Melbourne](https://blog.kathyreid.id.au/2024/06/29/digging-where-she-stands-meredith-whittaker/)
 - [Towards an integrated academic conference service offering](https://blog.kathyreid.id.au/2024/05/05/academic-conference-service-offering/)
 - [Dark Printers](https://blog.kathyreid.id.au/2024/03/02/dark-printers/)
-- [Scaling Python: dipping my toes into dask](https://blog.kathyreid.id.au/2024/01/27/scaling-python-dask/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
