@@ -31,9 +31,9 @@ _Together we do better._
 
 ## My latest blog posts from [https://blog.kathyreid.id.au](https://blog.kathyreid.id.au) 📝
 <!-- BLOG-POST-LIST:START -->
+- [State of my toolchain 2024](https://blog.kathyreid.id.au/2024/12/08/state-of-my-toolchain-2024/)
 - [The OSI’s Definition of Open Source AI heightens the need for better dataset documentation practices](https://blog.kathyreid.id.au/2024/11/02/open-source-ai-definition-dataset-documentation/)
 - [When abstraction goes wrong: ISP-hobbled firmware prevents using VoIP with a modem router](https://blog.kathyreid.id.au/2024/08/10/abstraction-goes-wrong-isp-hobbled-firmware-modem-router/)
-- [Digging where she stands – Meredith Whittaker in conversation with Vanessa Toholka at the Wheeler Centre, Melbourne](https://blog.kathyreid.id.au/2024/06/29/digging-where-she-stands-meredith-whittaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
